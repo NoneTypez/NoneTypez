@@ -21,6 +21,7 @@
 - 🖥️ Interested in cross-platform desktop apps with **Tauri** and **React**.
 - 🤖 Working with **TypeScript**, **Node.js**, Telegram bots, and databases.
 - 🧪 Exploring crypto-related tooling and market-data workflows.
+- 🧠 Using AI agents (Claude Code) as a daily part of my development workflow.
 - 🌱 Always learning by building real projects.
 - ⚡ I enjoy turning ideas into useful, working software.
 
@@ -81,12 +82,17 @@
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,sqlite" alt="Node.js, Prisma, SQLite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,sqlite" alt="Node.js, Prisma, PostgreSQL, SQLite" />
 </p>
 
-### Desktop, Tools & Workflow
+### Desktop & Game Development
 <p>
-  <img src="https://skillicons.dev/icons?i=tauri,rust,git,github,vscode" alt="Tauri, Rust, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=tauri,rust,unity" alt="Tauri, Rust, Unity" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" alt="Docker, Git, GitHub, VS Code" />
 </p>
 
 ---
@@ -100,6 +106,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NoneTypez&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="metrics.svg" alt="GitHub metrics: activity, repositories and contribution calendar" />
 </p>
 
 ---
@@ -117,9 +127,6 @@
 <p>
   <a href="https://github.com/NoneTypez">
     <img src="https://img.shields.io/badge/GitHub-NoneTypez-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://nonetype.type">
-    <img src="https://img.shields.io/badge/Website-nonetype.type-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://twitter.com/hush551">
     <img src="https://img.shields.io/badge/X-@hush551-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
