@@ -33,18 +33,8 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_sections: most-used
 
-          # Привычки: в какое время и какие дни вы кодите
-                    # Привычки: в какое время и какие дни вы кодите
-          plugin_habits: yes
-          plugin_habits_charts: no
-          plugin_habits_facts: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 30
-
           # Добавленные и удалённые строки кода
           plugin_lines: yes
 
-          # Ачивки в компактном виде
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
+          # Плагины habits и achievements отключены 2026-11-13: в lowlighter/metrics они
+          # падают с "Unexpected error" (habits: author undefined; achievements: ошибка GraphQL).

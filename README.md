@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Developer+%7C+Builder+%7C+Problem+Solver;Building+tools%2C+bots%2C+and+desktop+apps;Turning+ideas+into+working+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Builder;Desktop+apps%2C+games+and+developer+tools;Turning+ideas+into+working+software" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,59 +17,13 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Building practical software projects, developer tools, and automation.
-- 🖥️ Interested in cross-platform desktop apps with **Tauri** and **React**.
-- 🤖 Working with **TypeScript**, **Node.js**, Telegram bots, and databases.
-- 🧪 Exploring crypto-related tooling and market-data workflows.
-- 🧠 Using AI agents (Claude Code) as a daily part of my development workflow.
-- 🌱 Always learning by building real projects.
-- ⚡ I enjoy turning ideas into useful, working software.
-
----
-
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧩 LYNX</h3>
-      <p align="center">
-        A cross-platform desktop app project built with modern web technologies and Tauri.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📈 Spread</h3>
-      <p align="center">
-        A crypto arbitrage monitoring and trading-tool concept focused on spreads, liquidity, and execution costs.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Crypto-121D33?style=flat-square&logo=bitcoin&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3 align="center">🤖 Telegram Automation</h3>
-      <p align="center">
-        Telegram bot experiments using grammY, TypeScript, and Prisma to manage profiles, resources, and workflows.
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/grammY-009DFF?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-> Some projects are still in development. Public repository links can be added here when the corresponding repositories are ready to showcase.
+- 🔭 I build practical software end to end: from the first idea and UI to a working, tested release.
+- 🖥️ Cross-platform desktop applications with modern web technologies.
+- 🎮 Game development as part of a team: client-side features, UI and tooling in **Unity**.
+- 🛠️ Developer tools, automation and the small utilities that make everyday work faster.
+- 🎨 I care about interfaces that are clear, fast and pleasant to use.
+- 🧠 AI agents (Claude Code) are a daily part of how I design, write and review code.
+- 🌱 Always learning by building real things.
 
 ---
 
@@ -82,12 +36,12 @@
 
 ### Backend & Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,prisma,postgres,sqlite" alt="Node.js, Prisma, PostgreSQL, SQLite" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,prisma,postgres,sqlite" alt="Node.js, Python, Prisma, PostgreSQL, SQLite" />
 </p>
 
 ### Desktop & Game Development
 <p>
-  <img src="https://skillicons.dev/icons?i=tauri,rust,unity" alt="Tauri, Rust, Unity" />
+  <img src="https://skillicons.dev/icons?i=tauri,rust,unity,cs" alt="Tauri, Rust, Unity, C#" />
 </p>
 
 ### Tools & Workflow
@@ -97,27 +51,17 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Metrics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NoneTypez&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="NoneTypez GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoneTypez&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
+  <img src="metrics.svg" alt="GitHub metrics: activity, repositories, languages and contribution calendar" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=NoneTypez&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="metrics.svg" alt="GitHub metrics: activity, repositories and contribution calendar" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NoneTypez&theme=github-compact&hide_border=true" alt="Contribution activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NoneTypez/NoneTypez/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/NoneTypez/NoneTypez/output/snake.svg" alt="Contribution snake animation" />
+  </picture>
 </p>
 
 ---
